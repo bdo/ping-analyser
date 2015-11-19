@@ -1,6 +1,6 @@
 # ping-analyser
 
-Generate stats on your ping output. 
+Generate stats from your ping output. 
 
 ![Screenshot](screenshot.png)
 
