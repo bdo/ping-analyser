@@ -2,6 +2,8 @@
 
 Generate stats on your ping output. 
 
+![Screenshot](screenshot.png)
+
 First run you ping and redirect the output into a file (if you want see the ping at the same time, use [tee](https://en.wikipedia.org/wiki/Tee_(command)))
 
 ```bash
